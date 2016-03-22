@@ -8,22 +8,22 @@ vuejs的todomvc实例，一个功能一个demo，清晰明了，理解快速
 	npm start
 ```
 
-## `todomvc-base`，基础demo，所有demo都是在此基础上进行一步一步增加功能  
+- `todomvc-base`，基础demo，所有demo都是在此基础上进行一步一步增加功能  
 
-## `todomvc-add-todo`，添加todo项操作  
+- `todomvc-add-todo`，添加todo项操作  
 
-## `todomvc-completed-todo`，完成todo项操作  
+- `todomvc-completed-todo`，完成todo项操作  
 
-## `todomvc-remove-todo`，删除todo项操作  
+- `todomvc-remove-todo`，删除todo项操作  
 
-## `todomvc-filter-todos`，筛选todo项操作  
+- `todomvc-filter-todos`，筛选todo项操作  
 
-## `todomvc-remove-completed`，删除所有已完成的todo项  
+- `todomvc-remove-completed`，删除所有已完成的todo项  
 
-## `todomvc-completed-all`，完成所有todo项操作  
+- `todomvc-completed-all`，完成所有todo项操作  
 
-## `todomvc-completed`，完整功能示例
+- `todomvc-completed`，完整功能示例
 
-## `todomvc-components`，单vue文件组件完整功能示例
+- `todomvc-components`，单vue文件组件完整功能示例
 
-## `todomvc-components-store`，以store思想，单vue文件组件完整示例
+- `todomvc-components-store`，以store思想，单vue文件组件完整示例
