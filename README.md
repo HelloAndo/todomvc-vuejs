@@ -24,6 +24,8 @@ vuejs的todomvc实例，一个功能一个demo，清晰明了，理解快速
 
 - `todomvc-completed`，完整功能示例
 
-- `todomvc-components`，单vue文件组件完整功能示例
+- `todomvc-components-common`，单vue文件组件完整功能示例，正常写法
+
+- `todomvc-components-slot`，单vue文件组件，slot组合示例
 
 - `todomvc-components-store`，以store思想，单vue文件组件完整示例
