@@ -1,5 +1,7 @@
 # todomvc-vuejs
-vuejs的todomvc实例，一个功能一个demo，清晰明了，理解快速  
+vuejs的todomvc实例，一个功能一个demo，清晰明了，理解快速    
+规范：webpack + ES6 + vue-loader
+
 项目运行：
 
 ```  
